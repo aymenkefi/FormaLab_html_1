@@ -1,0 +1,54 @@
+#red{
+    border: 2px solid black;
+    color : rgb(200,0, 0);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bolder;
+    text-align: center;
+    background-color: darkgoldenrod;
+    margin: 50px 50px 50px 50px;
+}
+.blue{
+    color:blue;
+}
+.vt{
+    color: green;
+}
+.bord{
+    border: 1px solid green;
+}
+a{
+    color:violet; text-decoration: none;
+}
+a:hover{
+    color: green;text-decoration: underline goldenrod;
+}
+a:visited{
+    color: aqua;
+}
+#bod{
+     border-style: groove;
+     border-radius: 5px 20px 5px 20px;
+     width: 98%;
+     height: 700px;
+}
+#sec{
+    background: cornflowerblue; 
+}
+
+li{
+    display: inline;
+}
+header{
+    height: 200px;
+    color: #ff6600;
+}
+#pp{
+    font-size: 100px;
+    margin: 200px;
+}
+footer{
+    height: 200px;
+    color: #c4c4c4;
+}
